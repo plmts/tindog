@@ -113,3 +113,26 @@ h2 {
   width: 12%;
   margin: 20px 20px 50px;
 }
+
+/*PRICING*/
+
+#pricing {
+  padding: 3%;
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+.card-items {
+padding: 3% 5%;
+}
+
+#cta {
+  text-align: center;
+  background-color: #ff4c68;
+  font-family: "Montserrat";
+}
+
+#footer {
+  text-align: center;
+  font-family: "Montserrat";
+}
