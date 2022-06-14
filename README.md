@@ -1,2 +1,1 @@
-# tindog
-A tinder app for dogs 
+TinDog Starting Files
