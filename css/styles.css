@@ -3,7 +3,6 @@ body {
 }
 
 h2 {
-  font-family: "Montserrat";
   font-size: 3rem;
   line-height: 1.5;
 }
@@ -12,7 +11,9 @@ h2 {
   padding: 3% 15% 7%;
 }
 
-
+p {
+  color: #8f8f8f;
+}
 
 /*Tittle*/
 
@@ -21,7 +22,6 @@ h2 {
 }
 
 h1 {
-  font-family: "Montserrat", sans-serif;
   font-size: 3.5rem;
   line-height: 1.5;
   color: #ffffff;
@@ -48,9 +48,9 @@ h1 {
 }
 
 #features h3 {
-  font-family: "Montserrat";
   font-size: 1.5rem;
   font-style: bold;
+  text-align: center;
 }
 
 .icon {
@@ -60,10 +60,6 @@ h1 {
 
 .icon:hover {
  color: #ff4c68;
-}
-
-#features p {
-  color: #8f8f8f;
 }
 
 .features-box {
@@ -104,7 +100,6 @@ h1 {
 
 #pricing {
   padding: 3%;
-  font-family: "Montserrat";
   text-align: center;
 }
 
@@ -115,12 +110,16 @@ padding: 3% 5%;
 #cta {
   text-align: center;
   background-color: #ff4c68;
-  font-family: "Montserrat";
+  color: #fff;
+  padding: 10% 15%;
 }
+
+
+/*Footer*/
 
 #footer {
   text-align: center;
-  font-family: "Montserrat";
+  background-color: #fff;
 }
 
 @media (max-width: 991px){
